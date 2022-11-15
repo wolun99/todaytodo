@@ -39,10 +39,16 @@ node.js를 사용하여 서버를 만드는 실습을 위해 프로젝트를 시
 ## 기능
 
 1. 로그인
-   ![login](./frontend/src/assets/login.png)
+
+   ![login](./frontend/src/assets/login1.png)
+
 2. 회원가입
 
+   ![sign](./frontend/src/assets/signup1.png)
+
 3. 할일 리스트
+
+   ![list](./frontend/src/assets/list1.png)
 
 ## 프로젝트를 진행하면 어려웠던 점
 
